@@ -1,4 +1,4 @@
-package Opgave03;
+package opgave03;
 import java.util.Scanner;
 public class opgave03Ekstra {
     public static void main(String[] args) {
